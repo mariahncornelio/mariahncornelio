@@ -26,7 +26,7 @@ Right now, I'm working on my own coding projects and learning new languages, spe
 <br>
 <b> C U R R E N T:</b> <i> BMI calculator for different planets of the solar system </i>
 <br>
-<b> L A T E S T:</b> <i>Which strange animal are you quiz - Python</i>
+<b> L A T E S T:</b> <i>Which strange animal are you quiz (Python)</i>
 <br>
 <b> ☆ R E S E A R C H:</b>
 <br>
