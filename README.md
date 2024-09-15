@@ -28,6 +28,8 @@ Right now, I'm working on my own coding projects and learning new languages, spe
 <br>
 <b> L A T E S T:</b>
 <br>
+<b> S H O W C A S E: </b>
+<br>
 <b> F A V O R I T E:</b>
 
 ---
