@@ -2,7 +2,7 @@
 # ⊹˚₊‧──────────────────────────‧₊˚⊹
 # i n t r o d u c t i o n
 [![](https://visitcount.itsvg.in/api?id=mariahncornelio&icon=3&color=12)](https://visitcount.itsvg.in) <br><br>
-Hello, welcome to my page! I am currently an undergraduate student (junior) at the University of Texas at Arlington, double majoring in Biology and Data Science. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and connects to so many fields, like marine biology.
+Hello, welcome to my page! I am currently an undergraduate student and researcher (junior) at the University of Texas at Arlington, double majoring in Biology and Data Science. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and connects to so many fields, like marine biology.
 
 Right now, I'm working on my own coding projects and learning new languages, specifically Java, HTML, and SQL. Every challenge in coding is exciting for me, and there's nothing more satisfying than solving a tough problem. Anyways, that’s a little bit about me - have an amazing day, friend!
 
@@ -24,13 +24,14 @@ Right now, I'm working on my own coding projects and learning new languages, spe
 
 # p r o j e c t s 
 <br>
-<b> C U R R E N T:</b> <i> BMI Calculator for different planets of the solar system </i>
+<b> C U R R E N T:</b> <i> BMI calculator for different planets of the solar system </i>
 <br>
-<b> L A T E S T:</b>
+<b> L A T E S T:</b> Which strange animal are you quiz - Python
 <br>
-<b> S H O W C A S E: </b>
+<b> R E S E A R C H:</b>
 <br>
-<b> F A V O R I T E:</b>
+<b> ☆ S H O W C A S E: </b>
+<br>
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
