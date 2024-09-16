@@ -8,16 +8,19 @@ Right now, I'm working on my own coding projects and learning new languages, spe
 
 <details>
   <summary>m o r e   a b o u t   m e</summary>
-  <p> <br> ₊✩‧₊ i am from the philippines <br> ₊✩‧₊ my first coding language i learned was R <br> ₊✩‧₊ i love love love sharks!!! <br> ₊✩‧₊ i have a lot of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating) but right now i am focusing on writing <br> ₊✩‧₊ my favorite subject is SCIENCE <br> ₊✩‧₊ my back hurts all the time, unfortunately sigh </p>
+  <p> <br> ✩‧₊ i am from the philippines <br> ✩‧₊ my first coding language i learned was R <br> ✩‧₊ i love love love sharks!!! <br> ✩‧₊ i have a lot of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating, singing, guitar) but right now i am focusing on writing <br> ✩‧₊ i absolutely adore learning about any sciences <br> ✩‧₊ my back hurts all the time, unfortunately sigh <br> ✩‧₊ i'm always open to learning more about coding and learning from my mistakes </p>
 </details>
 
 <details>
   <summary>s o c i a l s</summary>
-  <p> <br> ₊✩‧₊ <a href="https://www.linkedin.com/in/mariah-noelle-cornelio-60221a329/"> my linked in </a><br> ₊✩‧₊ ◛ my email: mariahnoellecornelio@gmail.com </p>
+  <p> 
+    <br> ✩‧₊ <a href="https://www.linkedin.com/in/mariah-noelle-cornelio-60221a329/"> my linked in </a>
+    <br> ✩‧₊ <a href="mailto:mariahnoellecornelio@gmail.com">◛ my email</a>
+  </p>
 </details>
 
 # t o o l b o x
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Notion](https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465)
+![SAS](https://github.com/user-attachments/assets/c0972677-78ea-47bb-ad9c-9ade7aa7e481) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465) 
 
 # s t a t s
 ![](https://github-readme-stats.vercel.app/api?username=mariahncornelio&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -33,6 +36,7 @@ Right now, I'm working on my own coding projects and learning new languages, spe
 <b> ☆ S H O W C A S E: </b>
 <br>
 
+### "those who do not think outside the box are easily contained."
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Banner made on Canva :) -->
