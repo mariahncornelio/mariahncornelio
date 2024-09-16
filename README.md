@@ -19,6 +19,16 @@ Right now, I'm working on my own coding projects and learning new languages - sp
   </p>
 </details>
 
+<details>
+  <summary>r e p o s i t o r i e s</summary>
+  <p>
+    <br>✩‧₊ <a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a><br>
+    <br>✩‧₊ <a href="https://github.com/mariahncornelio/Undergraduate-Projects">Undergraduate Projects</a><br>
+    <br>✩‧₊ <a href="https://github.com/mariahncornelio/MachineLearningClass">Machine Learning Class - DATA 3426</a><br>
+    <br>✩‧₊ <a href="https://github.com/mariahncornelio/Python2Class">Python 2 Class - DATA 3402</a>
+  </p>
+</details>
+
 # t o o l b o x
 ![SAS](https://github.com/user-attachments/assets/c0972677-78ea-47bb-ad9c-9ade7aa7e481) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465) 
 
