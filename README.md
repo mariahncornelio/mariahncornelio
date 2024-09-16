@@ -8,7 +8,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 
 <details>
   <summary>m o r e   a b o u t   m e</summary>
-  <p> <br> ✩‧₊ I'm from the Philippines <br> ✩‧₊ My first coding language that I learned was R <br> ✩‧₊ Sharks are my favorite animal ever <br> ✩‧₊ I have lots of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating, singing, guitar) but as of right now, I am focusing on writing <br> ✩‧₊ I absolutely adore learning about any sciences <br> ✩‧₊ My back hurts all the time, unfortunately sigh <br> ✩‧₊ I'm always open to learning more about coding and learning from my mistakes </p>
+  <p> <br> ✩‧₊ I'm from the Philippines <br> ✩‧₊ My first coding language that I learned was R <br> ✩‧₊ Whale sharks are my favorite animal ever <br> ✩‧₊ I have lots of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating, singing, guitar) but as of right now, I am focusing on writing <br> ✩‧₊ I absolutely adore learning about any sciences <br> ✩‧₊ My back hurts all the time, unfortunately sigh <br> ✩‧₊ I'm always open to learning more about coding and learning from my mistakes </p>
 </details>
 
 <details>
