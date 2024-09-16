@@ -14,8 +14,8 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 <details>
   <summary>s o c i a l s</summary>
   <p> 
-    <br> ✩‧₊ <a href="https://www.linkedin.com/in/mariah-noelle-cornelio-60221a329/"> my linked in </a>
-    <br> ✩‧₊ <a href="mailto:mariahnoellecornelio@gmail.com">◛ my email</a>
+    <br> ✩‧₊ <a href="https://www.linkedin.com/in/mariah-noelle-cornelio-60221a329/"> ⫘ Linked In </a>
+    <br> ✩‧₊ <a href="mailto:mariahnoellecornelio@gmail.com">◛ E-mail</a>
   </p>
 </details>
 
