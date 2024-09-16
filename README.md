@@ -2,13 +2,13 @@
 # ⊹˚₊‧──────────────────────────‧₊˚⊹
 # i n t r o d u c t i o n
 [![](https://visitcount.itsvg.in/api?id=mariahncornelio&icon=3&color=12)](https://visitcount.itsvg.in) <br><br>
-Hello, welcome to my page! I am currently an undergraduate student and researcher (junior) at the University of Texas at Arlington, double majoring in Biology and Data Science. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and connects to so many fields, like marine biology.
+Hello, welcome to my page! I am currently an undergraduate student and researcher (junior) at the University of Texas at Arlington, double majoring in Biology and Data Science. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and how it connects to so many fields, like marine biology.
 
-Right now, I'm working on my own coding projects and learning new languages, specifically Java, HTML, and SQL. Every challenge in coding is exciting for me, and there's nothing more satisfying than solving a tough problem. Anyways, that’s a little bit about me - have an amazing day, friend!
+Right now, I'm working on my own coding projects and learning new languages - specifically Java, HTML, and SQL. Every challenge in coding is exciting for me, and there's nothing more satisfying than solving a tough problem. Anyways, that’s a little bit about me - have an amazing day, friend!
 
 <details>
   <summary>m o r e   a b o u t   m e</summary>
-  <p> <br> ✩‧₊ i am from the philippines <br> ✩‧₊ my first coding language i learned was R <br> ✩‧₊ i love love love sharks!!! <br> ✩‧₊ i have a lot of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating, singing, guitar) but right now i am focusing on writing <br> ✩‧₊ i absolutely adore learning about any sciences <br> ✩‧₊ my back hurts all the time, unfortunately sigh <br> ✩‧₊ i'm always open to learning more about coding and learning from my mistakes </p>
+  <p> <br> ✩‧₊ I'm from the Philippines <br> ✩‧₊ My first coding language that I learned was R <br> ✩‧₊ Sharks are my favorite animal ever <br> ✩‧₊ I have lots of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating, singing, guitar) but as of right now, I am focusing on writing <br> ✩‧₊ I absolutely adore learning about any sciences <br> ✩‧₊ My back hurts all the time, unfortunately sigh <br> ✩‧₊ I'm always open to learning more about coding and learning from my mistakes </p>
 </details>
 
 <details>
