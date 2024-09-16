@@ -2,7 +2,7 @@
 # ⊹˚₊‧──────────────────────────‧₊˚⊹
 # i n t r o d u c t i o n
 [![](https://visitcount.itsvg.in/api?id=mariahncornelio&icon=3&color=12)](https://visitcount.itsvg.in) <br><br>
-Hello, welcome to my page! I am currently an undergraduate student and researcher (junior) at the University of Texas at Arlington, double majoring in Biology and Data Science. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and how it connects to so many fields, like marine biology.
+Hello, welcome to my page! I am currently an undergraduate student (junior) and <a href="http://www.themydlarzlab.com/">researcher</a> at the University of Texas at Arlington, double majoring in Biology and Data Science. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and how it connects to so many fields, like marine biology.
 
 Right now, I'm working on my own coding projects and learning new languages - specifically Java, HTML, and SQL. Every challenge in coding is exciting for me, and there's nothing more satisfying than solving a tough problem. Anyways, that’s a little bit about me - have an amazing day, friend!
 
