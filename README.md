@@ -49,7 +49,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 
 # p r o j e c t s 
 <br>
-<b> C U R R E N T:</b> <i> BMI calculator for different planets of the solar system </i>
+<b> C U R R E N T:</b> <i> Weight calculator for different planets of the solar system </i>
 <br>
 <b> L A T E S T:</b> <i>Which strange animal are you quiz)</i>, click <a href="https://github.com/mariahncornelio/Personal-Projects/blob/main/Games/Which_Strange_Animal_Are_You_Quiz.ipynb">here!</a>
 <br>
