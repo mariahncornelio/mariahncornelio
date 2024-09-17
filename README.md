@@ -45,7 +45,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 
 
 # s t a t s
-![](https://github-readme-stats.vercel.app/api?username=mariahncornelio&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mariahncornelio&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # p r o j e c t s 
 <br>
