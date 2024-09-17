@@ -32,7 +32,8 @@ Right now, I'm working on my own coding projects and learning new languages - sp
     <br>✩‧₊ <a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a><br>
     <br>✩‧₊ <a href="https://github.com/mariahncornelio/Undergraduate-Projects">Undergraduate Projects</a><br>
     <br>✩‧₊ <a href="https://github.com/mariahncornelio/MachineLearningClass">Machine Learning Class - DATA 3461</a><br>
-    <br>✩‧₊ <a href="https://github.com/mariahncornelio/Python2Class">Python 2 Class - DATA 3402</a>
+    <br>✩‧₊ <a href="https://github.com/mariahncornelio/Python2Class">Python 2 Class - DATA 3402</a><br>
+    <br>✩‧₊ <a href="https://github.com/mariahncornelio/BioinformaticClass">Bioinformatics Class - BIOL 5340</a><br>
   </p>
 </details>
 
