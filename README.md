@@ -8,7 +8,14 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 
 <details>
   <summary>m o r e   a b o u t   m e</summary>
-  <p> <br> ✩‧₊ My first coding language that I learned was R <br> ✩‧₊ Whale sharks are my favorite animal ever <br> ✩‧₊ I have lots of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating, singing, guitar) but as of right now, I am focusing on writing <br> ✩‧₊ I absolutely adore learning about any sciences <br> ✩‧₊ My back hurts all the time, unfortunately sigh <br> ✩‧₊ I'm always open to learning more about coding and learning from my mistakes </p>
+  <p> 
+    <br> ✩‧₊ My first coding language that I learned was R 
+    <br> ✩‧₊ Whale sharks are my favorite animal ever 
+    <br> ✩‧₊ I have lots of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating, singing, guitar) but as of right now, I am focusing on writing 
+    <br> ✩‧₊ I absolutely adore learning about any sciences 
+    <br> ✩‧₊ My back hurts all the time, unfortunately sigh 
+    <br> ✩‧₊ I'm always open to learning more about coding and learning from my mistakes 
+  </p>
 </details>
 
 <details>
@@ -30,7 +37,10 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 </details>
 
 # t o o l b o x
-![SAS](https://github.com/user-attachments/assets/c0972677-78ea-47bb-ad9c-9ade7aa7e481) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465) 
+![SAS](https://github.com/user-attachments/assets/c0972677-78ea-47bb-ad9c-9ade7aa7e481) <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
+</br>
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Notion](https://camo.githubusercontent.com/dffc113c48aaf3d4ff62db008910c0af280ad6d834c2e990246873eab4796c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f74696f6e266c6f676f436f6c6f723d7768697465) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 # s t a t s
 ![](https://github-readme-stats.vercel.app/api?username=mariahncornelio&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -39,11 +49,11 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 <br>
 <b> C U R R E N T:</b> <i> BMI calculator for different planets of the solar system </i>
 <br>
-<b> L A T E S T:</b> <i>Which strange animal are you quiz (Python)</i>
+<b> L A T E S T:</b> <i>Which strange animal are you quiz)</i>, click <a href="https://github.com/mariahncornelio/Personal-Projects/blob/main/Games/Which_Strange_Animal_Are_You_Quiz.ipynb">here!</a>
 <br>
-<b> ☆ R E S E A R C H:</b>
+<b> ☆ R E S E A R C H:</b> <i>Mydlarz Lab melanin study/<a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icae115/7716722">paper</a></i>, click <a href="https://github.com/mariahncornelio/Undergraduate-Projects/tree/main/Mydlarz%20Lab%20Melanin%20Study">here!</a>
 <br>
-<b> ☆ S H O W C A S E: </b>
+<b> ☆ S H O W C A S E: </b> <i>Mydlarz Lab disease study</i>, click <a href="https://github.com/mariahncornelio/Undergraduate-Projects/tree/main/Mydlarz%20Lab%20Disease%20Study">here!</a>
 <br>
 
 ### "those who do not think outside the box are easily contained."
