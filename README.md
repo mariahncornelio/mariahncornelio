@@ -29,6 +29,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 <details>
   <summary>r e p o s i t o r i e s</summary>
   <p>
+    <br><b>Note:</b> All materials and work uploaded for the classes are shared with permission from the professors and PIs.<br>
     <br>✩‧₊ <a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a><br>
     <br>✩‧₊ <a href="https://github.com/mariahncornelio/Undergraduate-Projects">Undergraduate Projects</a><br>
     <br>✩‧₊ <a href="https://github.com/mariahncornelio/MachineLearningClass">Machine Learning Class - DATA 3461</a><br>
