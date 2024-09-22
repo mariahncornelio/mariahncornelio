@@ -23,7 +23,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
   <summary>s o c i a l s</summary>
   <br>
   <ul>
-    <li><a href="www.linkedin.com/in/mariahnoelle-cornelio">LinkedIn</a></li>
+    <li><a href="www.linkedin.com/in/mariahnoelle-cornelio/">LinkedIn</a></li>
     <li><a href="mailto:mariahnoellecornelio@gmail.com">E-mail</a></li>
   </ul>
 </details>
