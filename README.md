@@ -57,8 +57,9 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 <b> L A T E S T:</b> <i>Which strange animal are you quiz)</i>, click <a href="https://github.com/mariahncornelio/Personal-Projects/blob/main/Games/Which_Strange_Animal_Are_You_Quiz.ipynb">here!</a>
 <br>
 <b> ☆ R E S E A R C H:</b> <i>Mydlarz Lab melanin study/<a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icae115/7716722">paper</a></i>, click <a href="https://github.com/mariahncornelio/Undergraduate-Projects/tree/main/Mydlarz%20Lab%20Melanin%20Study">here!</a>
+
 <br>
-<b> ☆ S H O W C A S E: </b> <i>Mydlarz Lab disease study</i>, click <a href="https://github.com/mariahncornelio/Undergraduate-Projects/tree/main/Mydlarz%20Lab%20Disease%20Study">here!</a>
+<b> ☆ S H O W C A S E: </b> <i>Mydlarz Lab machine learning disease classification study paper</i>, click <a href="https://www.researchgate.net/publication/384161040_Machine_Learning_Approaches_for_Classifying_and_Characterizing_Coral_Diseases">here!</a> 
 <br>
 
 ### "those who do not think outside the box are easily contained."
