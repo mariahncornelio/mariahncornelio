@@ -29,6 +29,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 
 <details>
   <summary>R e p o s i t o r i e s</summary>
+  <br>
   <p><b>Note:</b> All materials and work uploaded for the classes are shared with permission from the professors and PIs.</p>
   <ul>
     <li><a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a></li>
