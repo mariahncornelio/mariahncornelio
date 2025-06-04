@@ -1,4 +1,4 @@
-![readmebanner](https://github.com/mariahncornelio/mariahncornelio/issues/1#issuecomment-2940763464)
+![READMEBANNERWOOOO](https://github.com/user-attachments/assets/c85f2f51-e843-42df-af06-cd33e1a495c9)
 # ⊹˚₊‧──────────────────────────‧₊˚⊹
 # I n t r o d u c t i o n
 [![](https://visitcount.itsvg.in/api?id=mariahncornelio&icon=3&color=12)](https://visitcount.itsvg.in) <br>
