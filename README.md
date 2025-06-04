@@ -2,19 +2,18 @@
 # ⊹˚₊‧──────────────────────────‧₊˚⊹
 # I n t r o d u c t i o n
 [![](https://visitcount.itsvg.in/api?id=mariahncornelio&icon=3&color=12)](https://visitcount.itsvg.in) <br><br>
-Hello, welcome to my page! I am currently an undergraduate student (junior) and <a href="http://www.themydlarzlab.com/">researcher</a> at the University of Texas at Arlington, double majoring in Biology and Data Science. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and how it connects to so many fields, like marine biology.
+Hello, welcome to my page! I am currently an undergraduate senior and <a href="http://www.themydlarzlab.com/">researcher</a> at the University of Texas at Arlington, double majoring in BS Biology and BS Data Science, Biology Concentration. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and how it connects to so many fields, like marine biology.
 
-Right now, I'm working on my own coding projects and learning new languages - specifically Java, HTML, and SQL. Every challenge in coding is exciting for me, and there's nothing more satisfying than solving a tough problem. Anyways, that’s a little bit about me - have an amazing day, friend!
+Right now, I'm working on my own coding projects and learning new languages - specifically SAS and SQL. Every challenge in coding is exciting for me, and there's nothing more satisfying than solving a tough problem.
 
 <details>
   <summary>M o r e   A b o u t   M e</summary>
   <br>
   <ul>
-    <li>My first coding language that I learned was R</li>
-    <li>I first started coding in 2022</li>
-    <li>Whale sharks are my favorite animal ever</li>
-    <li>I have lots of hobbies (running, swimming, writing, cooking/baking, reading, gaming, decorating, singing, guitar) but as of right now, I am focusing on writing</li>
-    <li>Sciences are my favorite subject to learn. Right now, I am particularly interested in marine biology but I am open to exploring other fields as well</li>
+    <li>My first coding language that I learned was R in 2022</li>
+    <li>Whale sharks are my favorite animal</li>
+    <li>I love aviation and planes</li>
+    <li>Sciences are my favorite subject to learn</li>
     <li>Learning from my mistakes is important to me and coding is a great way to push and challenge myself</li>
   </ul>
 </details>
@@ -57,7 +56,6 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 <b> L A T E S T:</b> <i>Which strange animal are you quiz</i>, click <a href="https://github.com/mariahncornelio/Personal-Projects/blob/main/Games/Which_Strange_Animal_Are_You_Quiz.ipynb">here!</a>
 <br>
 <b> ☆ R E S E A R C H:</b> <i>Mydlarz Lab melanin study/<a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icae115/7716722">paper</a></i>, click <a href="https://github.com/mariahncornelio/Undergraduate-Projects/tree/main/Mydlarz%20Lab%20Melanin%20Study">here!</a>
-
 <br>
 <b> ☆ S H O W C A S E: </b> <i>Mydlarz Lab machine learning disease classification study paper</i>, click <a href="https://www.researchgate.net/publication/384161040_Machine_Learning_Approaches_for_Classifying_and_Characterizing_Coral_Diseases">here!</a> 
 <br>
@@ -65,4 +63,4 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 ### "Those who do not think outside the box are easily contained."
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Banner made on Canva :) -->
+<!-- Banner made on Canva -->
