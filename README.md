@@ -37,6 +37,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
     <li><a href="https://github.com/mariahncornelio/MachineLearningClass">Machine Learning Class - DATA 3461</a></li>
     <li><a href="https://github.com/mariahncornelio/Python2Class">Python 2 Class - DATA 3402</a></li>
     <li><a href="https://github.com/mariahncornelio/BioinformaticClass">Bioinformatics Class - BIOL 5340</a></li>
+    <li><a href="https://github.com/mariahncornelio/DataMiningClass">Data Mining Class - DATA 3421</a></li>
   </ul>
 </details>
 
