@@ -1,5 +1,4 @@
-![readmebannerYAY](https://github.com/user-attachments/assets/5c020ec1-1642-4d68-b255-c511a2a3d205)
-![readmebanner](https://github.com/mariahncornelio/mariahncornelio/issues/1#issuecomment-2940763464)
+[![readmebanner](https://github.com/mariahncornelio/mariahncornelio/issues/1#issuecomment-2940763464)](https://github.com/mariahncornelio/mariahncornelio/issues/1#issuecomment-2940763464)
 # ⊹˚₊‧──────────────────────────‧₊˚⊹
 # I n t r o d u c t i o n
 [![](https://visitcount.itsvg.in/api?id=mariahncornelio&icon=3&color=12)](https://visitcount.itsvg.in) <br>
