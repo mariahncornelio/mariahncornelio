@@ -39,6 +39,12 @@ Right now, I'm working on my own coding projects and learning new languages - sp
     <li><a href="https://github.com/mariahncornelio/BioinformaticClass">Bioinformatics Class - BIOL 5340</a></li>
     <li><a href="https://github.com/mariahncornelio/DataMiningClass">Data Mining Class - DATA 3421</a></li>
   </ul>
+  <p><b>Project Repositories:</b></p>
+  <ul>
+    <li><a href="https://github.com/mariahncornelio/CA-Wildfire-Forecaster">California Wildfire Forecaster</a></li>
+    <li><a href="https://github.com/mariahncornelio/Southeast-Asia-GeoGuessr">Southeast Asia GeoGuessr</a></li>
+    <li><a href="https://github.com/mariahncornelio/Literary-Symbolism-LLM">Literary Symbolism in Poems LLM</a></li>
+  </ul>
 </details>
 
 
@@ -51,7 +57,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 # S t a t s
 ![](https://github-readme-stats.vercel.app/api?username=mariahncornelio&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-# P r o j e c t s 
+# P r o j e c t s
 <br>
 <b> C U R R E N T:</b> <i> Weight calculator for different planets of the solar system </i>
 <br>
@@ -64,5 +70,5 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 
 ### "Those who do not think outside the box are easily contained."
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Banner made on Canva -->
