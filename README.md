@@ -11,10 +11,9 @@ Right now, I'm working on my own coding projects and learning new languages - sp
   <br>
   <ul>
     <li>My first coding language that I learned was R in 2022</li>
-    <li>Whale sharks are my favorite animal</li>
+    <li>Mantis shrimps are my favorite animal</li>
     <li>I love aviation and planes</li>
-    <li>Sciences are my favorite subject to learn</li>
-    <li>Learning from my mistakes is important to me and coding is a great way to push and challenge myself</li>
+    <li>I really enjoy learning science</li>
   </ul>
 </details>
 
