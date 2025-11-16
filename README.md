@@ -35,6 +35,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
     <li><a href="https://github.com/mariahncornelio/CA-Wildfire-Forecaster">California Wildfire Forecaster</a></li>
     <li><a href="https://github.com/mariahncornelio/Southeast-Asia-GeoGuessr">Southeast Asia GeoGuessr</a></li>
     <li><a href="https://github.com/mariahncornelio/Literary-Symbolism-LLM">Literary Symbolism in Poems LLM</a></li>
+    <li><a href="https://github.com/mariahncornelio/Metastatic-Cancer-Equity-in-Healthcare/tree/main">Healthcare Equity Analysis Using Metastatic Cancer Data</a></li>
     <li><a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a></li>
   </ul>
   <p><b>Class Repositories:</b></p>
