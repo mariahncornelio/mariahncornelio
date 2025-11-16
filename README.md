@@ -30,19 +30,20 @@ Right now, I'm working on my own coding projects and learning new languages - sp
   <summary>R e p o s i t o r i e s</summary>
   <br>
   <p><b>Note:</b> All materials and work uploaded for the classes are shared with permission from the professors and PIs.</p>
-  <ul>
-    <li><a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a></li>
-    <li><a href="https://github.com/mariahncornelio/Undergraduate-Projects">Undergraduate Projects</a></li>
-    <li><a href="https://github.com/mariahncornelio/MachineLearningClass">Machine Learning Class - DATA 3461</a></li>
-    <li><a href="https://github.com/mariahncornelio/Python2Class">Python 2 Class - DATA 3402</a></li>
-    <li><a href="https://github.com/mariahncornelio/BioinformaticClass">Bioinformatics Class - BIOL 5340</a></li>
-    <li><a href="https://github.com/mariahncornelio/DataMiningClass">Data Mining Class - DATA 3421</a></li>
-  </ul>
   <p><b>Project Repositories:</b></p>
   <ul>
     <li><a href="https://github.com/mariahncornelio/CA-Wildfire-Forecaster">California Wildfire Forecaster</a></li>
     <li><a href="https://github.com/mariahncornelio/Southeast-Asia-GeoGuessr">Southeast Asia GeoGuessr</a></li>
     <li><a href="https://github.com/mariahncornelio/Literary-Symbolism-LLM">Literary Symbolism in Poems LLM</a></li>
+    <li><a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a></li>
+  </ul>
+  <p><b>Class Repositories:</b></p>
+  <ul>
+    <li><a href="https://github.com/mariahncornelio/Undergraduate-Projects">Undergraduate Projects</a></li>
+    <li><a href="https://github.com/mariahncornelio/MachineLearningClass">Machine Learning Class - DATA 3461</a></li>
+    <li><a href="https://github.com/mariahncornelio/Python2Class">Python 2 Class - DATA 3402</a></li>
+    <li><a href="https://github.com/mariahncornelio/BioinformaticClass">Bioinformatics Class - BIOL 5340</a></li>
+    <li><a href="https://github.com/mariahncornelio/DataMiningClass">Data Mining Class - DATA 3421</a></li>
   </ul>
 </details>
 
@@ -55,18 +56,6 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 
 # S t a t s
 ![](https://github-readme-stats.vercel.app/api?username=mariahncornelio&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-
-# P r o j e c t s
-<br>
-<b> C U R R E N T:</b> <i> Weight calculator for different planets of the solar system </i>
-<br>
-<b> L A T E S T:</b> <i>Which strange animal are you quiz</i>, click <a href="https://github.com/mariahncornelio/Personal-Projects/blob/main/Games/Which_Strange_Animal_Are_You_Quiz.ipynb">here!</a>
-<br>
-<b> ☆ R E S E A R C H:</b> <i>Mydlarz Lab melanin study/<a href="https://academic.oup.com/icb/advance-article/doi/10.1093/icb/icae115/7716722">paper</a></i>, click <a href="https://github.com/mariahncornelio/Undergraduate-Projects/tree/main/Mydlarz%20Lab%20Melanin%20Study">here!</a>
-<br>
-<b> ☆ S H O W C A S E: </b> <i>Mydlarz Lab machine learning disease classification study paper</i>, click <a href="https://www.researchgate.net/publication/384161040_Machine_Learning_Approaches_for_Classifying_and_Characterizing_Coral_Diseases">here!</a> 
-<br>
 
 ### "Those who do not think outside the box are easily contained."
 ---
