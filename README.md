@@ -32,12 +32,13 @@ Right now, I'm working on my own coding projects and learning new languages - sp
   <p><b>Note:</b> All materials and work uploaded for the classes are shared with permission from the professors and PIs.</p>
   <p><b>Project Repositories:</b></p>
   <ul>
+    <li><a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a></li>
     <li><a href="https://github.com/mariahncornelio/CA-Wildfire-Forecaster">California Wildfire Forecaster</a></li>
     <li><a href="https://github.com/mariahncornelio/Southeast-Asia-GeoGuessr">Southeast Asia GeoGuessr</a></li>
     <li><a href="https://github.com/mariahncornelio/Literary-Symbolism-LLM">Literary Symbolism in Poems LLM</a></li>
     <li><a href="https://github.com/mariahncornelio/Metastatic-Cancer-Equity-in-Healthcare/tree/main">Healthcare Equity Analysis Using Metastatic Cancer Data</a></li>
     <li><a href="https://github.com/mariahncornelio/British-Airways-Data-Science-Job-Simulation">British Airways Data Science Job Simulation</a></li>
-    <li><a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a></li>
+    <li><a href="https://github.com/mariahncornelio/ICU-Mortality-and-Readmission-Prediction-Capstone-1">College Capstone 1: ICU Mortality and Readmission Prediction</a></li>
   </ul>
   <p><b>Class Repositories:</b></p>
   <ul>
