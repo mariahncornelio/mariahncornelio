@@ -32,7 +32,8 @@ Right now, I'm working on my own coding projects and learning new languages - sp
   <p><b>Note:</b> All materials and work uploaded for the classes are shared with permission from the professors and PIs.</p>
   <p><b>Project Repositories:</b></p>
   <ul>
-    <li><a href="https://github.com/mariahncornelio/Personal-Projects">Personal Projects</a></li>
+    <li><a href="https://github.com/mariahncornelio/Personal-Projects">Personal For Fun Projects</a></li>
+    <li><a href="https://github.com/mariahncornelio/Undergraduate-Projects">Undergraduate and Mydlarz Lab Research Projects</a></li>
     <li><a href="https://github.com/mariahncornelio/CA-Wildfire-Forecaster">Fire Risk Detection Model for California Wildfires</a></li>
     <li><a href="https://github.com/mariahncornelio/Southeast-Asia-GeoGuessr">Southeast Asia GeoGuessr</a></li>
     <li><a href="https://github.com/mariahncornelio/Literary-Symbolism-LLM">Literary Symbolism in Poems LLM</a></li>
@@ -42,7 +43,6 @@ Right now, I'm working on my own coding projects and learning new languages - sp
   </ul>
   <p><b>Class Repositories:</b></p>
   <ul>
-    <li><a href="https://github.com/mariahncornelio/Undergraduate-Projects">Undergraduate Projects</a></li>
     <li><a href="https://github.com/mariahncornelio/MachineLearningClass">Machine Learning Class - DATA 3461</a></li>
     <li><a href="https://github.com/mariahncornelio/Python2Class">Python 2 Class - DATA 3402</a></li>
     <li><a href="https://github.com/mariahncornelio/BioinformaticClass">Bioinformatics Class - BIOL 5340</a></li>
