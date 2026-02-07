@@ -50,10 +50,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 ![](https://github-readme-stats.vercel.app/api?username=mariahncornelio&theme=default&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mariahncornelio&theme=default&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mariahncornelio&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 [![](https://visitcount.itsvg.in/api?id=mariahncornelio&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ### "Those who do not think outside the box are easily contained."
----
 <!-- Created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Banner made on Canva -->
