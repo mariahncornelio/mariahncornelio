@@ -1,21 +1,9 @@
-![READMEBANNERWOOOO](https://github.com/user-attachments/assets/c85f2f51-e843-42df-af06-cd33e1a495c9)
-# ⊹˚₊‧──────────────────────────‧₊˚⊹
-# I n t r o d u c t i o n
-[![](https://visitcount.itsvg.in/api?id=mariahncornelio&icon=3&color=12)](https://visitcount.itsvg.in) <br>
-Hello, welcome to my page! I am currently an undergraduate senior and <a href="http://www.themydlarzlab.com/">researcher</a> at the University of Texas at Arlington, double majoring in BS Biology and BS Data Science, Biology Concentration. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and how it connects to so many fields, like marine biology.
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/c6ebe244-ad5f-4b25-b70b-2f9602d3efc3" />
 
-Right now, I'm working on my own coding projects and learning new languages - specifically SAS and SQL. Every challenge in coding is exciting for me, and there's nothing more satisfying than solving a tough problem.
+# W e l c o m e 
+Hello, welcome to my page! I am currently an undergraduate senior and <a href="https://scholar.google.com/citations?hl=en&user=nJ8AWssAAAAJ">researcher</a> at the University of Texas at Arlington, double majoring in BS Biology and BS Data Science, Biology Concentration. After moving to the United States from the Philippines, I discovered a world of new opportunities - and one of the biggest surprises was finding a passion for coding and analyzing data. I love how coding combines problem-solving with creativity and how it connects to so many fields, like marine biology and aviation.
 
-<details>
-  <summary>M o r e   A b o u t   M e</summary>
-  <br>
-  <ul>
-    <li>My first coding language that I learned was R in 2022</li>
-    <li>Mantis shrimps are my favorite animal</li>
-    <li>I love aviation and planes</li>
-    <li>I really enjoy learning science</li>
-  </ul>
-</details>
+Right now, I'm working on my own coding projects and learning new languages - specifically SAS and SQL.
 
 <details>
   <summary>S o c i a l s</summary>
@@ -52,7 +40,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
 </details>
 
 
-# T o o l b o x
+# T e c h S t a c k
 ![SAS](https://github.com/user-attachments/assets/c0972677-78ea-47bb-ad9c-9ade7aa7e481) <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
 </br>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
