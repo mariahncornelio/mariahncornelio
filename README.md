@@ -29,6 +29,7 @@ Right now, I'm working on my own coding projects and learning new languages - sp
     <li><a href="https://github.com/mariahncornelio/British-Airways-Data-Science-Job-Simulation">British Airways Data Science Job Simulation</a></li>
     <li><a href="https://github.com/mariahncornelio/ICU-Mortality-and-Readmission-Prediction-Capstone-1">College Capstone 1: ICU Mortality and Readmission Prediction</a></li>
     <li><a href="https://github.com/mariahncornelio/Airport-Operations-Dashboard">Airport Operations Performance & Risk Dashboard</a></li>
+    <li><a href="https://github.com/mariahncornelio/ERCOT-Electricity-Demand-Forecasting">ERCOT Electricity Demand Forecasting (2023-2026)</a></li>
   </ul>
   <p><b>Class Repositories:</b></p>
   <ul>
